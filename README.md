@@ -1,6 +1,6 @@
-# Mirror Illusion Art (AutoMIA)
+# Mirror Illusion Art (CVPR 2026 Highlight!)
 
-[CVPR 2026] This is the official implementation repository for the paper "Mirror Illusion Art" in CVPR 2026. AutoMIA is a PyTorch3D-based system for designing 3D mirror illusion objects from two target images. Given a pair of supervision images, the code jointly optimizes a binary voxelized shape and view-dependent colors, then converts the learned volume into a printable mesh.
+[CVPR 2026 Highlight, Top 3%] This is the official implementation repository for the paper "Mirror Illusion Art" in CVPR 2026. AutoMIA is a PyTorch3D-based system for designing 3D mirror illusion objects from two target images. Given a pair of supervision images, the code jointly optimizes a binary voxelized shape and view-dependent colors, then converts the learned volume into a printable mesh.
 
 ## Showcase
 
