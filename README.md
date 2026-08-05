@@ -200,4 +200,17 @@ AutoMIA/
 
 ## Citation
 
-If you find this repository useful, please cite the AutoMIA CVPR 2026 paper. A camera-ready BibTeX entry can be added here once you are ready to release it publicly.
+If you find this repository useful, please cite:
+
+> Xiaopei Zhu\*, Zeyuan Li\*, Jun Zhu, and Xiaolin Hu. Mirror Illusion Art. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026.
+>
+> \* Equal contribution. † Corresponding author: Xiaolin Hu.
+
+```bibtex
+@inproceedings{zhu2026mirror,
+  title     = {Mirror Illusion Art},
+  author    = {Zhu, Xiaopei and Li, Zeyuan and Zhu, Jun and Hu, Xiaolin},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision
+               and Pattern Recognition (CVPR)},
+  year      = {2026},
+}
